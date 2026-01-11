@@ -12,4 +12,6 @@ Step of doing this project:
   - ↓ TruncatedSVD (optional)
 - Word-combination features (components)
   - ↓ Classifier
+- Model Training 
+  - ↓ Evaluation metrics
 - Predicted label
